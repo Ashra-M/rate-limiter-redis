@@ -1,10 +1,4 @@
 
----
-
-## ✅ Step 7: Add LICENSE
-
-### 📄 Create a file named `LICENSE` in your project root, and paste:
-
 ```text
 MIT License
 
@@ -21,3 +15,4 @@ The above copyright notice and this permission notice shall be included in all
 copies or substantial portions of the Software.
 
 THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND...
+```
