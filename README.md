@@ -59,12 +59,12 @@ python app.py
 
 ---
 
-📦 Example Rate Limit
+## 📦 Example Rate Limit
 Max: 5 requests per 60 seconds per IP
 
 On exceeding, returns 429 Too Many Requests with try_after_seconds
 
 ---
 
-📄 License
-[MIT]
+## 📄 License
+(MIT)
